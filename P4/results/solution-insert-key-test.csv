@@ -1,0 +1,10 @@
+#insert-key-test.csv
+#Veronika
+#Zapodobnikova
+#01328458
+group,number,duration,numberOfKeys,keyGroup,averageDurationLookupTrie,averageDurationLookupTree,averageDurationLookupList
+Insert Key Test,1,657342,0,null,0,0,0
+Insert Key Test,2,6379,0,null,0,0,0
+Insert Key Test,3,36647,0,null,0,0,0
+Insert Key Test,4,10174,0,null,0,0,0
+Insert Key Test,5,20795,0,null,0,0,0

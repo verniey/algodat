@@ -1,0 +1,10 @@
+#lookup-key-test.csv
+#Veronika
+#Zapodobnikova
+#01328458
+group,number,duration,numberOfKeys,keyGroup,averageDurationLookupTrie,averageDurationLookupTree,averageDurationLookupList
+Lookup Key Test,1,20052,0,null,0,0,0
+Lookup Key Test,2,6445,0,null,0,0,0
+Lookup Key Test,3,5906,0,null,0,0,0
+Lookup Key Test,4,5390,0,null,0,0,0
+Lookup Key Test,5,2797,0,null,0,0,0
